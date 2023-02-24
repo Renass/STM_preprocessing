@@ -32,6 +32,6 @@ https://drive.google.com/file/d/1lsD7TAXyUosX0bgq8DyBYU9KQM22PfUm/view?usp=shari
 4. preprocessing_folder.py - Python version of the program - Backend without UI
 5. main2.py - Python version of the project with UI (needs cmaps and ui in the same folder to work, needs Python installed and dependency packages)  
 
-https://drive.google.com/file/d/1lsD7TAXyUosX0bgq8DyBYU9KQM22PfUm/view?usp=sharing - Single-file compiled executable (Python-independent version of the project)
+6. https://drive.google.com/file/d/1lsD7TAXyUosX0bgq8DyBYU9KQM22PfUm/view?usp=sharing - Single-file compiled executable (Python-independent version of the project)
 
  

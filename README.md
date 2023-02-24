@@ -26,7 +26,7 @@ https://drive.google.com/file/d/1lsD7TAXyUosX0bgq8DyBYU9KQM22PfUm/view?usp=shari
 4. Folder with jpg images will appear on the same folder, where executable started, names are the same with the original sm4 files.
 
 # Repo content
-1. .ui files - widget templates made by QtDesigner
+1. .ui files - widget templates made in QtDesigner
 2. cmaps.jpg - colormap visualization image in widget
 3. preprocessing_folder.ipynb - Development Jupyter workfile
 4. preprocessing_folder.py - Python version of the program - Backend without UI

@@ -1,8 +1,13 @@
 # SM4 STM_preprocessing
-![image](https://user-images.githubusercontent.com/65440465/221204555-7dd88d97-9160-43b7-8283-6e4d5bb3d549.png)
-
 
 This repository contains program for quick observation .SM4 - format microscopy data as jpg images.
+You can briefly see STM, AFM results of measurements for whole folder. 
+
+![image](https://user-images.githubusercontent.com/65440465/221204555-7dd88d97-9160-43b7-8283-6e4d5bb3d549.png)
+
+![image](https://user-images.githubusercontent.com/65440465/221223950-ac6bd5dd-725d-470c-a620-27de376792ee.png)
+
+
 
 It has UI widget with initial settings:
 1. SM4 object type - Microscopy (STM, AFM) option creates surface image, whereas Spectroscopy maps energy distribution into a basic graph.

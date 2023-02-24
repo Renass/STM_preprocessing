@@ -21,11 +21,11 @@ https://drive.google.com/file/d/1lsD7TAXyUosX0bgq8DyBYU9KQM22PfUm/view?usp=shari
 4. Folder with jpg images will appear on the same folder, where executable started, names are the same with the original sm4 files.
 
 # Repo content
-.ui files - widget templates made by QtDesigner
-cmaps.jpg - colormap visualization image in widget
-preprocessing_folder.ipynb - Development Jupyter workfile
-preprocessing_folder.py - Python version of the program - Backend without UI
-main2.py - Python version of the project with UI (needs cmaps and ui in the same folder to work, needs Python installed and dependency packages)  
+1. .ui files - widget templates made by QtDesigner
+2. cmaps.jpg - colormap visualization image in widget
+3. preprocessing_folder.ipynb - Development Jupyter workfile
+4. preprocessing_folder.py - Python version of the program - Backend without UI
+5. main2.py - Python version of the project with UI (needs cmaps and ui in the same folder to work, needs Python installed and dependency packages)  
 
 https://drive.google.com/file/d/1lsD7TAXyUosX0bgq8DyBYU9KQM22PfUm/view?usp=sharing - Single-file compiled executable (Python-independent version of the project)
 

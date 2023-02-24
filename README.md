@@ -11,3 +11,6 @@ It has UI widget with initial settings:
 4. Directory - mode of gathering files to operate
 "Only current directory" - operate all sm4 files within the same directory, where script started
 "Include inner directories" - operate all sm4 files within working directory and all directories inside it in full depth     
+
+
+# How to use

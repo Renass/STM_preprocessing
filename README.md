@@ -1,4 +1,4 @@
-# STM_preprocessing
+# SM4 STM_preprocessing
 ![image](https://user-images.githubusercontent.com/65440465/221204555-7dd88d97-9160-43b7-8283-6e4d5bb3d549.png)
 
 
@@ -14,3 +14,19 @@ It has UI widget with initial settings:
 
 
 # How to use
+https://drive.google.com/file/d/1lsD7TAXyUosX0bgq8DyBYU9KQM22PfUm/view?usp=sharing
+1. Download single executable file .exe (All dependencies included)
+2. Copy that file in the folder with sm4 files
+3. Select settings on a UI (like on the image above) and press "Start"
+4. Folder with jpg images will appear on the same folder, where executable started, names are the same with the original sm4 files.
+
+# Repo content
+.ui files - widget templates made by QtDesigner
+cmaps.jpg - colormap visualization image in widget
+preprocessing_folder.ipynb - Development Jupyter workfile
+preprocessing_folder.py - Python version of the program - Backend without UI
+main2.py - Python version of the project with UI (needs cmaps and ui in the same folder to work, needs Python installed and dependency packages)  
+
+https://drive.google.com/file/d/1lsD7TAXyUosX0bgq8DyBYU9KQM22PfUm/view?usp=sharing - Single-file compiled executable (Python-independent version of the project)
+
+ 
